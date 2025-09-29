@@ -104,7 +104,7 @@ html::-webkit-scrollbar-thumb{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(images/back.png) no-repeat;
+    background: url(images/back6.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
 }
@@ -249,7 +249,7 @@ section{
 }
  
 .newsletter{
-    background: url(images/back3.png) no-repeat;
+    background: url(images/back7.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
